@@ -21,6 +21,6 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=AsukaTakemura" alt="AsukaTakemura" />
   </a>
   <a href="https://github.com/Asuka12489">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/Asuka12489?label=follow&logo=github&style=flat" />
   </a>
 </p>

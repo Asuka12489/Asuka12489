@@ -25,4 +25,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asuka12489)](https://github.com/Asuka12489/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asuka12489&layout=compact)](https://github.com/Asuka12489/github-readme-stats)

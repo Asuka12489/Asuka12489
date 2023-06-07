@@ -16,13 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="left">
-  <a href="https://github.com/Asuka12489">
-    <img src="https://komarev.com/ghpvc/?username=AsukaTakemura" alt="AsukaTakemura" />
-  </a>
-  <a href="https://github.com/Asuka12489">
-    <img height="20" src="https://img.shields.io/github/followers/Asuka12489?label=follow&logo=github&style=flat" />
-  </a>
-</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asuka12489&layout=compact)](https://github.com/Asuka12489/github-readme-stats)

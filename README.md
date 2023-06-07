@@ -24,3 +24,6 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/github/followers/Asuka12489?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asuka12489&layout=compact&theme=tokyonight&text_color=ffffff&count_private=true&hide=HTML,CSS,MAKEFILE,Objective-C,shell&langs_count=5)
